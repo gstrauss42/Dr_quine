@@ -1,2 +1,2 @@
 all:
-	gcc -o Colleen.c a.c
+	gcc -o Colleen Colleen.c
