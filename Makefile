@@ -7,5 +7,5 @@ clean:
 	rm Colleen
 	rm Grace
 	rm Sully
-	rm Sully_%s.c
+	rm Sully_*
 	rm Grace_kid.c
